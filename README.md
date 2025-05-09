@@ -22,7 +22,7 @@ A video demonstration is included (200583P.mp4), showcasing:
 - Testing with a song from an untrained genre
 
 # Demo
-Uploading 200583P.mp4…
+https://github.com/Sanujen/mlib_visualization/blob/main/200583P.mp4
 
 ## Acknowledgments
 Inspired by Taras Matyashovskyy's work on MLlib for music classification.
